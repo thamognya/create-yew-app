@@ -2,10 +2,11 @@
   "author": "You <you@example.com>",
   "name": "yew-app",
   "version": "0.1.0",
+  "license": "AGPL-3.0-or-later",
   "scripts": {
     "build": "cross-env WASM_PACK_PROFILE=release parcel build static/index.html --public-url ./",
     "start": "cross-env WASM_PACK_PROFILE=dev parcel static/index.html -p 8000 --open",
-    "test": "wasm-pack test --headless --chrome"
+    "test": "wasm-pack test --headless"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",

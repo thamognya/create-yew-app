@@ -14,7 +14,7 @@ Please refer to its documentation:
 ## Quick Overview
 
 ```sh
-npx create-yew-app my-app
+npx @thamognya/create-yew-app@latest my-app
 cd my-app
 npm start
 ```

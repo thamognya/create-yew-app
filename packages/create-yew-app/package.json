@@ -1,0 +1,28 @@
+{
+  "name": "@thamognya/create-yew-app",
+  "version": "0.0.1",
+  "description": "Create yew app with tailwind css and sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.thamognya.com/Thamognya/create-yew-app.git"
+  },
+  "files": [
+    "index.js",
+    "createYewApp.js"
+  ],
+  "keywords": [
+    "yew",
+    "rust",
+    "wasm",
+    "create-yew-app",
+    "webassembly",
+    "wasm-bindgen",
+    "wasm-pack"
+  ],
+  "author": "Thamognya Kodi <contact@thamognya.com>",
+  "license": "AGPL-3.0-or-later"
+}

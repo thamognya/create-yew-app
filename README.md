@@ -1,9 +1,9 @@
-# create-yew-rs-app
+# create-yew-app
 
 This is a command like such:
 
 ```shell
-npx create-yew-rs-app@latest test-app
+npx create-yew-app@latest test-app
 cd test-app
 npm start
 ```

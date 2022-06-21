@@ -1,13 +1,13 @@
 {
   "name": "@thamognya/create-yew-app",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Create yew app with tailwind css and sass",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "create-yew-app": "./index.js"
+    "@thamognya/create-yew-app": "./index.js"
   },
   "repository": {
     "type": "git",
